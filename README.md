@@ -1,3 +1,5 @@
-# php-libs
+php-libs
+========
 
-PHP libraries
+* PHP libraries
+* Maintainer: Jan Elznic <jan.elznic@elzasoft.com>
